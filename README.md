@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, I'm Shuayb Warsame! I'm a 22-year-old computer science enthusiast from Sweden. Currently in my second year at Kristianstad Högskola,I'm dedicated to expanding my knowledge and skills in the world of technology. Frontend development has captured my interest,and I'm thoroughly enjoying the journey of self-learning and crafting visually appealing user interfaces.Beyond technology, I have a life beyond the screen too. I enjoy: Playing soccer and staying active on the field. Hitting the gym to stay fit and healthy. Exploring new worlds and challenges in the gaming universe.
+Hey there, I'm Shuayb Warsame! I'm a 22-year-old computer science enthusiast from Sweden. Currently in my second year at Kristianstad Högskola, I'm dedicated to expanding my knowledge and skills in the world of technology. Frontend development has captured my interest,and I'm thoroughly enjoying the journey of self-learning and crafting visually appealing user interfaces.Beyond technology, I have a life beyond the screen too. I enjoy: Playing soccer and staying active on the field. Hitting the gym to stay fit and healthy. Exploring new worlds and challenges in the gaming universe.
 
 
 ## 🌐 Socials:
