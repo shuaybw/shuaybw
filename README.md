@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=shuayb&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 Hey there, I'm Shuayb Warsame! I'm a 23-year-old computer science enthusiast from Sweden. Currently in my second year at Kristianstad Högskola.
 
