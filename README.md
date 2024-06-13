@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hey there, I'm Shuayb Warsame! I'm a 23-year-old computer science enthusiast from Sweden. Currently in my second year at Kristianstad Högskola.
+Hey there, I'm Shuayb Warsame! I'm a 23-year-old computer science enthusiast from Sweden. Currently in my second year at Kristianstad Högskolan.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/.shuayb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shuayb.w) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shuayb-warsame/) 
